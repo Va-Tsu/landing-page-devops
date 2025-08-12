@@ -1,0 +1,17 @@
+# Логи
+*.log
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# ОС (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Node (на випадок використання npm)
+node_modules/
